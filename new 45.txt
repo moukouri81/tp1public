@@ -11,3 +11,6 @@ git remote add origin https://github.com/moukouri81/tp1public.git
 git branch -M main
 git push -u origin main
 xxx
+
+
+helper = manager-core
